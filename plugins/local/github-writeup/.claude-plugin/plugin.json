@@ -1,0 +1,8 @@
+{
+  "name": "github-writeup",
+  "description": "Generates polished GitHub documentation: README preview pages, repo descriptions, and write-ups when pushing or publishing code",
+  "author": {
+    "name": "Joee0201",
+    "email": "joee0201@gmail.com"
+  }
+}
