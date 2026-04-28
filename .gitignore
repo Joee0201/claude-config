@@ -1,0 +1,11 @@
+sessions/
+history.jsonl
+cache/
+downloads/
+backups/
+session-env/
+shell-snapshots/
+plans/
+projects/
+plugins/marketplaces/claude-plugins-official/
+*.jsonl
